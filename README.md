@@ -9,6 +9,7 @@ Script used `selenium-python` to logged in into the Instagram.
 - Login Instagram Credential
 
 ## SETUP & INSTALLATION
+- Install [selenium driver](https://selenium-python.readthedocs.io/installation.html)
 - `pip install -r requirements.txt`
 - run the script `python ./scrapy.py`
 
