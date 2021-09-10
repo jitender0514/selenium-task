@@ -57,3 +57,4 @@ venv/
 ENV/
 
 .DS_Store
+geckodriver.log
