@@ -11,3 +11,7 @@ Script used `selenium-python` to logged in into the Instagram.
 ## SETUP & INSTALLATION
 - `pip install -r requirements.txt`
 - run the script `python ./scrapy.py`
+
+
+# Feed
+![alt text](https://raw.githubusercontent.com/jitender0514/selenium-task/master/screenshot.png)
